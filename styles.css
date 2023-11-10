@@ -1,0 +1,103 @@
+
+body{
+    background-color:white;
+}
+
+header{
+    background-color:lightskyblue;
+}
+
+footer{
+    background-color:lightskyblue;
+}
+
+
+.Signup :hover{
+    opacity: .9;
+}
+
+.Welcome{
+    font-size: 22px;
+    text-align: center;
+    background-position: center;
+    margin: 20px;
+}
+
+
+
+.Button1{
+    text-align: center;
+    margin: 10px;
+
+}
+
+.Button1:hover{
+    opacity:.6;
+}
+
+.Button2{
+    text-align: center;
+    margin: 10px;
+}
+
+.Button2:hover{
+    opacity:.6;
+}
+
+
+.Button3{
+    text-align: center;
+    margin: 10px;
+}
+
+.Button3:hover{
+    opacity:.6;
+}
+
+
+.Button4{
+    text-align: center;
+    margin: 10px;
+}
+
+.Button4:hover{
+    opacity:.6;
+}
+
+
+.Button5{
+    text-align: center;
+    margin: 10px;
+}
+
+.Button5:hover{
+    opacity:.6;
+}
+
+.Button6{
+    text-align: center;
+    margin: 10px;
+}
+
+.Button6:hover{
+    opacity:.6;
+}
+
+
+.TutoringPicture{
+    width: 1857px;
+    height: 250px;
+    margin-top: 30px;
+}
+
+.Return{
+    margin-left: 50px;
+}
+
+.Return:hover{
+    opacity: .6;
+}
+
+.ContactusForm{
+    margin-left: 50px;
+}
